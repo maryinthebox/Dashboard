@@ -22,7 +22,7 @@
 <p align="center">
     Dashoboard
 </p>
-
+<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para conferir meu Dashboard </a>
 <div align="center">
     <audio src="Podcast_Filo_mixagem.mp3" controls title="Podcast editado"></audio>
 </div>

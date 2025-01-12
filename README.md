@@ -20,50 +20,37 @@
 </p>
 
 <p align="center">
-    Dashoboard
+    
 </p>
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para conferir meu Dashboard </a>
+<a href="Vendas_Dashoboard.xlsx" title="View Excel now"> 📕Clique aqui para conferir meu Dashboard </a>
 <div align="center">
-    <audio src="Podcast_Filo_mixagem.mp3" controls title="Podcast editado"></audio>
+ 
 </div>
 
-# Projeto Podcast Gerado por I.A.s
+# Projeto Dashboard realizado pelo Microsoft Excel
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Projeto com o objetivo de gerar um dashboard
 
-Utilizado esteira de prompts para gerar cada etapa do processo criativo.
 
-## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- Adobe Express
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- Adobe Audition
+## 💻 Ferramentas utilizadas no projeto
+
+- Deezer: para ouvir música enquanto racho a cuca 
+- Café: muito mesmo para me manter acordada
+- Chocolate: para acalmar o coração
+- Fé: nem preciso falar nada, né?
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via ChatGPT
-- Audio gerado pela ElevenLabs
-- Adobe Express para gerar capa
-- Adobe Audition para tratar aúdio e adicionar sons de fundo
-
-## 📚 Materiais
-
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- Com Sangue
+- Suor
+- e Lágrimas
 
 
-## 🛠️ Processo de execução
 
-Utilizado os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso foi realizado o passo a passo abaixo.
-
-- 🤖 1. Prompts de roteiro no `ChaGPT`
-- 🤖 2. Prompts de roteiro gerados pelo ChatGPT no  `ElevenLabs`
-- 🤖 3. Prompts de artes no `Adobe Express`
 
 ## 👨‍💻 Aprendiz
 

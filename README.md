@@ -1,7 +1,7 @@
 # Dashboard
 <p align="center">
 <img 
-    src="Podcast_Paranoico.png"
+    src="Icon_Dash.jpg"
     width="300"
 />
 </p>
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    Dashoboard
 </p>
 
 <div align="center">
